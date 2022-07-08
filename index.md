@@ -2,4 +2,4 @@
 
 
 ## Inhaltsverzeichnis
-- [Theoretische Informatik](theaimwolf.github.io/dhbw-semester2/TheoretischeInformatik2)
+- [Theoretische Informatik](https://TheAimWolf.github.io/dhbw-semester2/TheoretischeInformatik2)
